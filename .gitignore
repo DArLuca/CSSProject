@@ -2,5 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
 api-key.txt
 test.txt
+=======
+>>>>>>> 2084159 (work in progress)
