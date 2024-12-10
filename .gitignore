@@ -1,9 +1,36 @@
-.Rproj.user
+# R Project Configuration
+*.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
-<<<<<<< HEAD
 api-key.txt
 test.txt
-=======
->>>>>>> 2084159 (work in progress)
+
+# Build artifacts
+*.tar.gz
+*.tar
+*.zip
+*.tgz
+
+# IDE specific settings
+.DS_Store
+*.swo
+*.swp
+
+# Generated files
+*.html
+*.pdf
+*.docx
+
+# Temporary files
+.Rproj
+
+# Python or other language specific files
+*.pyc
+*.pyo
+
+# R Markdown outputs
+*.html
+*.pdf
+*.docx
+
